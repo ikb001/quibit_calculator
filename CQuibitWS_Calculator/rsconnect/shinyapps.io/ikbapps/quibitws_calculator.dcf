@@ -1,0 +1,11 @@
+name: quibitws_calculator
+title:
+username:
+account: ikbapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9189917
+bundleId: 7728531
+url: https://ikbapps.shinyapps.io/quibitws_calculator/
+asMultiple: FALSE
+asStatic: FALSE
